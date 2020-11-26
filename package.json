@@ -1,0 +1,12 @@
+{
+    "name": "API-project",
+    "description": "A project for testing APIs in Node-RED",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flow.json",
+            "credentialsFile": "flow_cred.json"
+        }
+    }
+}
